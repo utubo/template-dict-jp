@@ -1,14 +1,24 @@
 辞書リポジトリのテンプレートです  
 ご自由にお使いください
 
-`./github/workflow/release.yml`をGithub Actionsに登録することにより、
-tagのpush時にリリースファイルが作成されるようにできます
+- tagをpushするとリリースファイルが作成されます
+- リポジトリの設定を変更する必要があります
+  - Settings
+    - Actions
+      - General
+         - `Workflow permissions` (一番下の方)
+           - `Read and write permissions`を選択
 
 以下、READMEのテンプレートです  
 適宜修正して使ってください  
 (ダウンロードURLは`https://github.com/utubo/template-dict-jp/`を自分のリポジトリのものへ一括置換してください)
 
 ----
+
+## xx-dict-jp
+
+xxの変換辞書です  
+google日本語入力とAndroidのGboardのユーザー辞書に登録できます
 
 ## 辞書ファイル
 
