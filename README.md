@@ -1,7 +1,8 @@
 # templae-dic-jp
 
 辞書リポジトリのテンプレートです  
-ご自由にお使いください
+ご自由にお使いください  
+最後のテンプレートのリンクは削除しちゃってもOKです
 
 ## リリースファイルの作成について
 tagをpushするとリリースファイルが作成されます  
@@ -69,4 +70,7 @@ google日本語入力とAndroidのGboardのユーザー辞書に登録できま�
 ## License
 
 TODO
+
+----
+[template](https://github.com/utubo/template-dict-jp)
 
