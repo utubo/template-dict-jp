@@ -9,5 +9,5 @@ for f in $SRC; do
   rm -f $OUTFILE
 done
 # all
-grep --no-filename -e '^[^#].*' $SRC | sort -u > .output/mh-dict-jp-all.txt
+grep --no-filename -e '^[^#].*' $SRC | sort -u > .output/dict-jp-all.txt
 
