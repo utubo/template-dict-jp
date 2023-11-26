@@ -39,15 +39,15 @@ SKK辞書もあります(SKKって何？って人は気にしないでOK!)
 |---------------------|----------------------|
 |xx-dict-jp-xx.zip    |サンプル              |
 
+- Androidは1ファイル2000件という制限があるのでファイルを分けています
+- 更新日は[ここ](https://github.com/utubo/template-dict-jp/tree/main/src)を参考に
+(ダウンロードは[ダウンロードページ](https://github.com/utubo/template-dict-jp/releases/latest)から)
+
 ### SKK辞書
 
 |ファイル名           |備考                  |
 |---------------------|----------------------|
 |SKK-JISYO.xx-dict-jp |全部入り              |
-
-- Androidは1ファイル2000件という制限があるのでファイルを分けています
-- 更新日は[ここ](https://github.com/utubo/template-dict-jp/tree/main/src)を参考に
-(ダウンロードは[ダウンロードページ](https://github.com/utubo/template-dict-jp/releases/latest)から)
 
 ## ユーザー辞書への追加の仕方
 ### Windows google日本語入力
